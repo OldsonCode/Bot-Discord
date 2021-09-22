@@ -37,4 +37,4 @@ $description[
 `.kick` (Kick user from Server)
 `.unban` (Unban)
 ]
-$onlyForIDs[761591872480083988;826691899602763776;**This Command Only Can Be Using For Dev!**]
+
